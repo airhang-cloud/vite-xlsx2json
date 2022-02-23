@@ -1,3 +1,7 @@
+/**
+ * @description: 界面配置化 --- JsonSchema定制
+ * @author: airhang
+ * */ 
 import { CodepenOutlined, BarsOutlined } from '@ant-design/icons-vue';
 
 export const Schema = [
